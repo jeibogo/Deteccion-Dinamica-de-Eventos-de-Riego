@@ -111,4 +111,4 @@ Uribe C., H., Lagos, L. O., & Holzapfel, E. (2001). *Pivote Central*. Instituto 
 
 ## Codigo completo
 
-https://github.com/jeibogo/Detecci-n-Din-mica-de-Eventos-de-Riego.git
+https://github.com/jeibogo/Deteccion-Dinamica-de-Eventos-de-Riego.git
